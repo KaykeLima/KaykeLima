@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Kayke Lima
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning JavaScript and Python
